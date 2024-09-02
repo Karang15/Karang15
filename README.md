@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm Karan, a passionate developer with experience 
 
 Here are some of the key projects I’m working on:
 
-- **[Pokémon App](https://github.com/karang152/pokemon-app)**: A React-based app for exploring Pokémon information.
 - **[Weather App](https://react-weather-app-topaz-delta.vercel.app/)**: A weather forecasting app built with React.
 - **[Portfolio Website](https://portfolio-six-beta-64.vercel.app/)**: My personal portfolio showcasing my skills and projects.
 
@@ -32,8 +31,8 @@ I’m currently pursuing a BTech in Computer Science and Engineering (AIML) at K
 Feel free to reach out if you have any questions or just want to connect!
 
 - [Email](mailto:karangupta15022002@gmail.com)
-- [LinkedIn](#) (Add your LinkedIn profile link here)
-- [Twitter](#) (Add your Twitter profile link here)
+- [LinkedIn](https://www.linkedin.com/in/karan-kumar-gupta-8608a0253/)
+- [Twitter](https://twitter.com/KaranGu65844741)
 
 ## 🔧 Tools & Technologies
 
@@ -48,7 +47,7 @@ Feel free to reach out if you have any questions or just want to connect!
 
 ## 📖 License
 
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License - see the [LICENSE](https://github.com/Karang15/Licence) file for details.
 
 ---
 
